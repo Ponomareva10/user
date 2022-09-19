@@ -1,0 +1,9 @@
+{
+    "laptops": [
+        {
+            "id": 1,
+            "name": "ASUS ROG STRIX",
+            "picture": "https://www.notebookcheck-ru.com/fileadmin/_processed_/c/7/csm_IMG_5411_0c892db131.jpg"
+        }
+    ]
+}
